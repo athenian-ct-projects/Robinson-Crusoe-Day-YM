@@ -1,9 +1,7 @@
-# Assignment Description
+# Robinson Crusoe Day game
 
-written by 
+written by YM '23
 
-edit with appropriate link:
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Robinson-Crusoe-Day-YM)](https://repl.it/github/athenian-ct-projects/Robinson-Crusoe-Day-YM)
 
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+* This is an Oregon Trail-type game.
